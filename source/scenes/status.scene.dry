@@ -76,17 +76,23 @@ Economic growth: [+ economic_growth_2 +]%
 = Inter-party Relations
 
 
-{!<span class="tooltip-text" title="Center Party">Z</span>!}: [+ z_relation : relationships +]
+{!<span class="tooltip-text" title="Takemaru Yakushiji">Takemaru</span>!}: [+ z_relation : relationships +]
 
-{!<span class="tooltip-text" title="German Democratic Party">!}[? if not ddp_name: DDP?][? if ddp_name != 0 : [+ ddp_name +]?]{!</span>!}: [+ ddp_relation : relationships +]
+{!<span class="tooltip-text" title="Tsubasa Kawana">Tsubasa</span>!} [+ ddp_relation : relationships +]
 
-{!<span class="tooltip-text" title="German People's Party">DVP</span>!}: [+ dvp_relation : relationships +]
+{!<span class="tooltip-text" title="Hiruko Shizuhara">Hiruko</span>!}: [+ dvp_relation : relationships +]
 
-{!<span class="tooltip-text" title="Communist Party of Germany">KPD</span>!}: [+ kpd_relation : relationships +]
+{!<span class="tooltip-text" title="Darumi Amemiya">Darumi</span>!}: [+ kpd_relation : relationships +]
 
-{!<span class="tooltip-text" title="German National People's Party">DNVP</span>!}: [+ dnvp_relation : relationships +]
+{!<span class="tooltip-text" title="Ima Tsukumo">Ima</span>!}: [+ dnvp_relation : relationships +]
 
-{!<span class="tooltip-text" title="National-Socialist German Worker's Party (Nazis)">NSDAP</span>!}: [+ nsdap_relation : relationships +]
+{!<span class="tooltip-text" title="Kako Tsukumo">Kako</span>!}: [+ nsdap_relation : relationships +]
+
+{!<span class="tooltip-text" title="Gaku Maruko">Gaku</span>!}:
+
+{!<span class="tooltip-text" title="Shouma Ginzaki">Shouma</span>!}:
+
+{!<span class="tooltip-text" title="Eito Aotsuki">Eito</span>!}:
 
 = Internal Factions of the SPD
 
